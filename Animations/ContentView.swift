@@ -30,11 +30,6 @@ struct ContentView: View {
         ZStack {
             
             Rectangle().fill(Color.blue)
-            
-            
-            
-            
-            //HELLO
                 .frame(width: 200, height: 200)
             
             if isShowingRed {
